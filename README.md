@@ -7,6 +7,8 @@ A JavaScript mash-up between Telize IP Geolocation API and Google Maps API to de
 
 This will determine your location (based on your IP-address) using the free Telize geolocation API, then feed that information into a Google Maps driving directions script as the starting point. The resulting output will provide directions from your approximate location to a location of your choosing.
 
+DEMO HERE: http://dubows.com/demo.html
+
 ## How do I use it?
 
 Just grab your own Google Maps API key and pop it into the HTML page in-between the comment blocks that say <REPLACE WITH YOUR OWN API KEY HERE>, replace the destination address with one of your choosing in-between the other comment blocks that say <REPLACE WITH YOUR CUSTOM ADDRESS HERE>. Other than that, nothing is needed for the bare-bones implementation to function on your site. 
